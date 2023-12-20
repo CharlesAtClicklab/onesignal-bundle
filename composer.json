@@ -1,5 +1,5 @@
 {
-    "name": "adelplace/onesignal-bundle",
+    "name": "zubi/onesignal-bundle",
     "description": "Symfony integration of the norkunas/onesignal-php-api library",
     "type": "library",
     "require": {
